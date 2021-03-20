@@ -1,0 +1,31 @@
+{
+  "name": "array-utils",
+  "version": "1.0.0",
+  "description": "A set of functions to take your Arrays to the next-level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expand-js/array-utils.git"
+  },
+  "keywords": [
+    "array",
+    "utils",
+    "function",
+    "array",
+    "function",
+    "js",
+    "javascript",
+    "typescript",
+    "array",
+    "types"
+  ],
+  "author": "Haneen Mahdin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/expand-js/array-utils/issues"
+  },
+  "homepage": "https://github.com/expand-js/array-utils#readme"
+}
