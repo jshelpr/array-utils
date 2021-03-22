@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A set of functions to take your Arrays to the next-level",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/expand-js/array-utils/issues"
   },
-  "homepage": "https://github.com/expand-js/array-utils#readme"
+  "homepage": "https://github.com/expand-js/array-utils#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0"
+  }
 }
